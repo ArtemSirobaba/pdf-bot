@@ -1,0 +1,26 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@juliendu11/instagram-downloader": "^0.2.0",
+    "axios": "^0.19.2",
+    "cheerio": "^1.0.0-rc.3",
+    "download-file": "^0.1.5",
+    "fs": "0.0.1-security",
+    "got": "^11.5.1",
+    "images-to-pdf": "^1.0.3",
+    "metascraper": "^5.12.17",
+    "metascraper-description": "^5.12.17",
+    "metascraper-url": "^5.12.17",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.5",
+    "telegraf": "^3.38.0"
+  }
+}
